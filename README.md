@@ -8,7 +8,7 @@ The notebooks are my implememtations of machine learning regressors for the comp
 
 The models are coded in Python and using libraries such as scikit learn, Pandas, and Numpy.
 
-The notebooks with sklearn in the titles are machine learning models imported from the scikit-learn, xgboost, light-gb, cat-gb libraries.
+The notebooks with sklearn in the titles are machine learning models imported from the scikit-learn, xgboost, lgbm, cat-gb libraries.
 
 Applies techniques:
   - Data Transformation
